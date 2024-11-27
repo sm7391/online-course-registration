@@ -34,3 +34,7 @@ JavaScript
 Contributing:
 
 We welcome contributions to improve this project. Feel free to fork the repository and submit pull requests.
+
+If you have any queries regarding any of the topic I discussed in this video feel free to talk to e using below links:
+github : https://github.com/sm7391
+linkedin : www.linkedin.com/in/shital-mashitakar8080
