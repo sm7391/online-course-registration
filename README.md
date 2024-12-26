@@ -7,7 +7,7 @@ Key Features:
 
 User Authentication: Secure user registration and login.
 Course Catalog: Browse a variety of courses with detailed descriptions.
-Course Enrollment: Enroll in desired courses with payment processing integration.
+Course Enrollment: Enroll in desired courses with payment processing integration. 
 Course Materials: Access course materials, including videos, PDFs, and quizzes.
 Progress Tracking: Monitor course progress and completion status.
 Instructor Dashboard: Manage courses, students, and grades.
